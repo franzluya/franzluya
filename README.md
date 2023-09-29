@@ -10,4 +10,4 @@ I'm a college student from the Philippines, passionate about coding and learning
 
 ## Connect with Me
 
-- GitHub: [pransfranz](github.com/pransfranz)
+- GitHub: pransfranz(https://github.com/pransfranz)
