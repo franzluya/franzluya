@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Franz Luya
 
-<!--
-**pransfranz/pransfranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a college student from the Philippines, passionate about coding and learning.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying at Bachelor of Science in Information Technology 
+- 💻 I'm interested in Web Development
+
+
+## Connect with Me
+
+- GitHub: github.com/pransfranz
