@@ -6,9 +6,3 @@ I'm a college student from the Philippines, passionate about coding and learning
 
 - 🎓 Currently studying Bachelor of Science in Information Technology
 - 💻 I'm interested in Web Development
-
-
-## Connect with Me
-
-- GitHub: [https://github.com/pransfranz](https://github.com/pransfranz)
-- Website: (https://franzluya.me)
