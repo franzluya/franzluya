@@ -1,6 +1,6 @@
-# Hello, I'm Franz Luya
+<h1 align="center">Franz Luya💻</h1>>
 
-A 2nd year college student from the Philippines, passionate about coding and learning.
+<p>A 2nd year college student from the Philippines, passionate about coding and learning.
 
 ## About Me
 
@@ -14,3 +14,4 @@ A 2nd year college student from the Philippines, passionate about coding and lea
  
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{pransfranz}/count.svg)
+</p>
