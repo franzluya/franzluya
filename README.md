@@ -1,6 +1,6 @@
-<h1 align="center">Franz Luya💻</h1>>
+<h1 align="center">Franz Luya💻</h1>
 
-<p>A 2nd year college student from the Philippines, passionate about coding and learning.
+<p align="center">A 2nd year college student from the Philippines, passionate about coding and learning.
 
 ## About Me
 
