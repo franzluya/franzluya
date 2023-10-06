@@ -1,4 +1,4 @@
-<h1 align="center">Franz Luya💻</h1>
+<h3 align="center">Franz Luya💻</h3>
 
 <p align="center">A 2nd year college student from the Philippines, passionate about coding and learning.
 
