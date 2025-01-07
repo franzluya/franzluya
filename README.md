@@ -14,7 +14,7 @@
  <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
  
- <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=pransfranz&theme=react&hide_border=true"/>
+![franzluya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franzluya&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
  
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{pransfranz}/count.svg)
