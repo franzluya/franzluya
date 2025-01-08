@@ -1,5 +1,6 @@
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Franz+Luya+💻)](https://git.io/typing-svg)
-
+</p>
 <p align="center">
   <em>"Turning ideas into code and dreams into reality."</em>
 </p>
