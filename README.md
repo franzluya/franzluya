@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Franz+Luya+💻">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Franz+Luya+💻;Welcome+to+my+GitHub+Profile!&center=true&width=500&height=50">
 </p>
+
 <p align="center">
   <em>"Turning ideas into code and dreams into reality."</em>
 </p>
@@ -42,8 +43,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franzluya&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=franzluya&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzluya&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages">
 </p>
 
@@ -53,7 +56,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/franzluya/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:franzluya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:luyafranzjulius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
