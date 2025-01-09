@@ -43,11 +43,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franzluya&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzluya&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franzluya&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
 </p>
 
 ---
@@ -61,7 +59,7 @@
 
 ---
 
-## 🖼️ Random Quote Generator
+## 🖼️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote">
@@ -69,8 +67,9 @@
 
 ---
 
-## 👀 Profile Views
+
 
 <p align="center">
+  <p>Profile Views</p>
   <img src="https://profile-counter.glitch.me/{franzluya}/count.svg" alt="Visitor Count">
 </p>
