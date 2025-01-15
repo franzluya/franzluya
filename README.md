@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Franz+Luya+💻;Welcome+to+my+GitHub+Profile!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Franz+Luya+💻;Welcome+to+my+GitHub+Profile!&center=true&width=500&height=50&color=1F6FEB&duration=4000">
 </p>
 
 <p align="center">
@@ -55,11 +55,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-    <img height=180 align="center" src="https://github-readme-stats-omega-ten-60.vercel.app/api/top-langs?username=franzluya&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
-</p>
+<div style="display: flex;">
+  <img height="200" src="https://github-readme-stats-omega-ten-60.vercel.app/api/top-langs?username=franzluya&layout=compact&langs_count=8&card_width=400&theme=tokyonight" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-beta.vercel.app?user=franzluya&theme=tokyonight&card_width=550&card_height=200" alt="GitHub Streak" /></a>
+</div>
 
----
 
 ## 🌐 Connect with Me
 
