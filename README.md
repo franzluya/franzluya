@@ -56,7 +56,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franzluya&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
+    <img height=180 align="center" src="https://github-readme-stats-omega-ten-60.vercel.app/api/top-langs?username=franzluya&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
 </p>
 
 ---
