@@ -56,8 +56,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-omega-ten-60.vercel.app/api/top-langs?username=franzluya&layout=compact&langs_count=8&card_width=350&theme=tokyonight" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-beta.vercel.app?user=franzluya&theme=tokyonight&card_width=360&card_height=180" alt="GitHub Streak" /></a>
+  <img height="160" src="https://github-readme-stats-omega-ten-60.vercel.app/api/top-langs?username=franzluya&layout=compact&langs_count=8&card_width=350&theme=tokyonight" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-beta.vercel.app?user=franzluya&theme=tokyonight&card_width=360&card_height=160" alt="GitHub Streak" /></a>
 </p>
 
 
