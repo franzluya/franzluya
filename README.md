@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>3rd Year Information Technology Student from Lemery, Batangas</strong><br>
+  <strong>3rd Year IT Student from Lemery, Batangas</strong><br>
   Passionate about coding, web development, and continuous learning.
 </p>
 
