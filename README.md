@@ -47,8 +47,9 @@
 
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 </p>
 
@@ -57,8 +58,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-omega-ten-60.vercel.app/api/top-langs?username=franzluya&layout=compact&langs_count=6&card_width=390&theme=tokyonight" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-beta.vercel.app?user=franzluya&theme=tokyonight&card_width=345&card_height=155" alt="GitHub Streak" /></a>
+  <img height="170" src="https://github-readme-stats-omega-ten-60.vercel.app/api/top-langs?username=franzluya&layout=compact&langs_count=6&card_width=380&theme=tokyonight" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-beta.vercel.app?user=franzluya&theme=tokyonight&card_width=390&card_height=155" alt="GitHub Streak" /></a>
 </p>
 
 
