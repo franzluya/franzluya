@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Franz+Luya+👋;Welcome+to+my+GitHub+Profile!&center=true&width=500&height=50&color=1F6FEB&duration=3000">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello!++I'm+Franz+Luya%F0%9F%91%8B;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>3rd Year IT Student from Lemery, Batangas, Philippines</strong><br>
+  <strong>BSIT Student from Lemery, Batangas, Philippines</strong><br>
   Passionate about coding, web development, and continuous learning.
 </p>
 
