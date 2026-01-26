@@ -1,6 +1,4 @@
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello!++I'm+Franz+Luya%F0%9F%91%8B;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello!++I'm+Franz+Luya%F0%9F%91%8B;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 <p align="center">
   <em>"Turning ideas into code and dreams into reality."</em>
