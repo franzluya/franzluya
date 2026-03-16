@@ -1,85 +1,95 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello!++I'm+Franz+Luya%F0%9F%91%8B;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+<!-- HEADER -->
+
+<h1 align="center">Hi 👋, I'm Franz Luya</h1>
 
 <p align="center">
-  <em>"Turning ideas into code and dreams into reality."</em>
+BSIT Student • Aspiring Full Stack Developer
 </p>
 
 <p align="center">
-  <strong>BSIT Student from Lemery, Batangas, Philippines</strong><br>
-  Passionate about coding, web development, and continuous learning.
+Turning ideas into code and dreams into reality.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;BSIT+Student+from+Batangas;Future+Full+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 Pursuing a **Bachelor of Science in Information Technology**.
-- 🌐 Aspiring **Full-Stack Web Developer**.
-- 📚 I enjoy exploring new tools and technologies, and I’m always eager to learn.
+- 🎓 Bachelor of Science in Information Technology  
+- 🌍 Based in Batangas, Philippines  
+- 💻 Interested in **web development and software engineering**  
+- 📚 Currently learning **modern web technologies**  
+- 🎯 Aspiring **full stack developer**
 
----
 
-## 🛠️ Tech Stacks
-
+# 🛠 Tech Stack
 
 ### Frontend
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=react,vuejs,tailwind,js,html,css" />
 </p>
 
 ### Backend
 
-<p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,postgresql" />
 </p>
-
 
 ### Tools
 
 <p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,vite,photoshop" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
+
+<table align="center">
+<tr>
+<td align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzluya&layout=compact&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=franzluya&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-omega-ten-60.vercel.app/api/top-langs?username=franzluya&layout=compact&langs_count=6&card_width=380&theme=tokyonight" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-beta.vercel.app?user=franzluya&theme=tokyonight&card_width=390&card_height=155" alt="GitHub Streak" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=franzluya&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/franzluya/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:luyafranzjulius@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💬 Random Quotes
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/franzluya/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:luyafranzjulius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<img src="https://komarev.com/ghpvc/?username=franzluya&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
----
-
-#### 🖼️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote">
-</p>
-
----
-
-
-<div>
-  <p>Profile Views</p>
-  <img src="https://profile-counter.glitch.me/{franzluya}/count.svg" width="150px" height="auto" alt="Visitor Count">
-</div>
