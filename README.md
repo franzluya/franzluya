@@ -11,7 +11,7 @@ Turning ideas into code and dreams into reality.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;BSIT+Student+from+Batangas;Future+Full+Stack+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;BSIT+Student+from+Batangas;Aspiring+Full+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
