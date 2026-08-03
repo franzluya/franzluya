@@ -1,9 +1,8 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Franz Luya</h1>
-
 <p align="center">
-BSIT Student • Aspiring Full Stack Developer
+Full Stack Developer
 </p>
 
 <p align="center">
